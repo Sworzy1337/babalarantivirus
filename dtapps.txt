@@ -1,2 +1,2 @@
 https://cdn.discordapp.com/attachments/1136224189406253138/1145448877785370674/tahacukututtu.txt
-C:\Program Files\tahacukututtu.txt
+C:\\Program Files\\tahacukututtu.txt
